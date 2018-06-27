@@ -1112,6 +1112,16 @@ pre code {
         flex: 0 0 100%;
         max-width: 100%
     }
+    .col-md-13 {
+        -ms-flex: 0 0 45%;
+        flex: 0 0 45%;
+        max-width: 45%
+    }
+    .col-md-14 {
+        -ms-flex: 0 0 55%;
+        flex: 0 0 55%;
+        max-width: 55%
+    }
     .order-md-1 {
         -ms-flex-order: 1;
         order: 1
